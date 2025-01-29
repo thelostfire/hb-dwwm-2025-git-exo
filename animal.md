@@ -1,10 +1,12 @@
-# Nom animal
+# Dragon de Komodo
 
-Description rapide
+Espèce de varans incroyablement ignoble
 
-Une image avec une légende
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/50/Varanus_komodoensis1.jpg "Dragon de Komodo")
 
-Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+## Description
+Dans la nature, un dragon de Komodo adulte mesure entre 2 et 3 m et pèse environ 70 kg7, mais les spécimens vivant en captivité atteignent souvent une masse plus élevée.
+
+Ne vous fiez pas à ses allures de grosse bête pataude et calme : le dragon de Komodo est un prédateur féroce ! Il dévore tout ce qui passe à sa portée, cochons, singes mais aussi des cerfs. Sa taille et son appétit gigantesque lui ont valu le surnom de “monstre de Komodo”.
 
 Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
