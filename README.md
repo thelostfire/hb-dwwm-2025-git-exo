@@ -13,7 +13,7 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Membres du groupe
 1. Francois PEGOURIE
-2. Membre 2
+2. Stéphane LAY
 
 ## Liens vers les animaux
 
