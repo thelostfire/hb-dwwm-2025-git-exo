@@ -19,5 +19,5 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Liens vers les animaux
 
-* [...](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Platypus/animal.md)
+* [Francois's Platypus](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Platypus/animal.md)
 * ...
