@@ -5,8 +5,11 @@ Le blobfish (Psychrolutes marcidus) est une des espèces de poissons abyssaux vi
 ![image info](images/blob.jpg)
 
     
+## DESCRIPTION 
 
 Les photographies du blobfish les plus répandues le représentent souvent après sa remontée à la surface : son corps est alors soumis à une forte décompression qui modifie fortement son apparence 4. Le blobfish a en effet un aspect très différent dans son milieu naturel.
+
+## SOUS-ESPECES
 
 Cottunculus granulosus Karrer, 1968
 Cottunculus konstantinovi Myagkov, 1991
