@@ -21,4 +21,4 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 * [Francois's Platypus](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Platypus/animal.md)
 * [Stf's Blobfish](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/blob/animal.md)
-* [Vincent's Blobfish](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Dragon_de_komodo/animal.md)
+* [Vincent's Dragon](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Dragon_de_komodo/animal.md)
