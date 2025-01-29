@@ -2,7 +2,7 @@
 
 Le blobfish (Psychrolutes marcidus) est une des espèces de poissons abyssaux vivant entre 600 et 1 200 m de profondeur2, au large des côtes australiennes et tasmaniennes. Le chalutage de fond intensif fait du blobfish une espèce vulnérable
 
-	![alt text](/hb-dwwm-2025-git-exo/images/blob.jpg "Ce poisson est moche")
+![image info](/hb-dwwm-2025-git-exo/images/blob.jpg)
 
     
 
