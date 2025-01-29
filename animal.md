@@ -7,7 +7,7 @@
 ### L'Ornithorynque respire la classe. L'herbe de plie en signe de respect avant même qu'il passe dessus.
 
 #### Caractéristiques
-L'Ornithorynque est un carnivore qui aime se taper des poissons, crevetts, crustacés, mais aussi leurs oeufs parce qu'il est metal AF.
+L'Ornithorynque est un carnivore qui aime se taper des poissons, crevettes, crustacés, mais aussi leurs oeufs parce qu'il est metal AF.
 Il n'est pas un animal domestique parce qu'il ne se soumet pas à la barbarie humaine.
 Il a deux résidences de milliardaire de bâtard, une en Australie et une en Tanzanie.
 
