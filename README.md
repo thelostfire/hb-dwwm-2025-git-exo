@@ -13,7 +13,9 @@ En utilisant des fichiers markdown voici les choses à faire :
 
 ## Membres du groupe
 1. Francois PEGOURIE
-2. Membre 2
+2. Stéphane LAY
+3. Vincent OUTHATIP
+4.Julien NICOLETTI
 
 ## Liens vers les animaux
 
