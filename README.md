@@ -15,7 +15,7 @@ En utilisant des fichiers markdown voici les choses à faire :
 1. Francois PEGOURIE
 2. Stéphane LAY
 3. Vincent OUTHATIP
-4. Julian NICOLETTI
+4. Julien NICOLETTI
 
 ## Liens vers les animaux
 
