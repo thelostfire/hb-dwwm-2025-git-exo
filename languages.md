@@ -7,5 +7,3 @@
 
 ```javascript
 console.log("Hello World");
-alert(s);
-```
