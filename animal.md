@@ -4,7 +4,7 @@
 
 ![alt text](./perfection.jpg)
 
-### L'Ornithorynque respire la classe. L'herbe de plie en signe de respect avant même qu'il passe dessus.
+### L'Ornithorynque respire la classe. L'herbe se plie en signe de respect avant même qu'il passe dessus.
 
 #### Caractéristiques
 L'Ornithorynque est un carnivore qui aime se taper des poissons, crevettes, crustacés, mais aussi leurs oeufs parce qu'il est metal AF.
