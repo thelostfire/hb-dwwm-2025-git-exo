@@ -18,10 +18,11 @@ et dedans rajouter un sous titre avec le nom du langage et à l'intérieur le lo
 1. Francois PEGOURIE
 2. Stéphane LAY
 3. Vincent OUTHATIP
-4. Julian NICOLETTI
+4. Julien NICOLETTI
 
 ## Liens vers les animaux
 
 * [Francois's Platypus](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Platypus/animal.md)
 * [Stf's Blobfish](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/blob/animal.md)
 * [Vincent's Dragon](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/Dragon_de_komodo/animal.md)
+* [Julien Chat](https://github.com/thelostfire/hb-dwwm-2025-git-exo/blob/chat/animal.md)
