@@ -2,7 +2,7 @@
 
 IL EST TROP MIGNON
 
-![alt text] (perfection.jpg)
+![alt text](./perfection.jpg)
 
 L'Ornithorynque respire la classe. L'herbe de plie en signe de respect avant même qu'il passe dessus.
 
