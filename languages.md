@@ -9,8 +9,6 @@ echo "Hello World!";
 ?>
 ```
 
-# Langages 
-
 ## Javascript
 ![JSLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png)
 
@@ -18,3 +16,22 @@ echo "Hello World!";
 
 ```javascript
 console.log("Hello World");
+```
+
+## CSS 
+
+![alt text](css.jpg)
+
+``` CSS
+h1 { 
+    color: red; 
+    font-size: 2em; 
+    border-bottom: solid black 2px; 
+}
+
+p {
+    color: blacksmoke;
+    font-size: 0.9em;
+    padding: 4px;
+}
+```
