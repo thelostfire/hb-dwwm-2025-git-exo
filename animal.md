@@ -1,10 +1,18 @@
-# Nom animal
+# Blobfish
 
-Description rapide
+Le blobfish (Psychrolutes marcidus) est une des espèces de poissons abyssaux vivant entre 600 et 1 200 m de profondeur2, au large des côtes australiennes et tasmaniennes. Le chalutage de fond intensif fait du blobfish une espèce vulnérable
 
-Une image avec une légende
+	![alt text](/hb-dwwm-2025-git-exo/images/blob.jpg "Ce poisson est moche")
 
-Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+    
 
-Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
+Les photographies du blobfish les plus répandues le représentent souvent après sa remontée à la surface : son corps est alors soumis à une forte décompression qui modifie fortement son apparence 4. Le blobfish a en effet un aspect très différent dans son milieu naturel.
+
+Cottunculus granulosus Karrer, 1968
+Cottunculus konstantinovi Myagkov, 1991
+Cottunculus microps Collett, 1875
+Cottunculus nudus Nelson, 1989
+Cottunculus sadko Essipov, 1937
+Cottunculus spinosus Gilchrist, 1906
+Cottunculus thomsonii
+Cottunculus tubulosus Byrkjedal & Orlov, 2007
