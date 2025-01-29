@@ -20,7 +20,7 @@ console.log("Hello World");
 
 ## CSS 
 
-![alt text]([css.jpg](https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg))
+![alt text](https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg)
 
 ``` CSS
 h1 { 
