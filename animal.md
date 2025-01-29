@@ -1,11 +1,13 @@
-# Nom animal
+# Ornithorynque
 
-Description rapide
+IL EST TROP MIGNON
 
-Une image avec une légende
+L'Ornithorynque respire la classe. L'herbe de plie en signe de respect avant même qu'il passe dessus.
 
-Un sous titre "Caractéristique"
-Cette section contiendra une liste avec le régime alimentaire de l'animal, si c'est un animal domestique ou non, la zone géographique dans laquelle on le trouve.
+Caractéristiques
+L'Ornithorynque est un carnivore qui aime se taper des poissons, crevetts, crustacés, mais aussi leurs oeufs parce qu'il est metal AF.
+Il n'est pas un animal domestique parce qu'il ne se soumet pas à la barbarerie humaine.
+Il a deux résidences de milliardaire de batard, une en Australie et une en Tanzanie.
 
-Un sous titre "Sous espèces" avec une liste de nom d'animaux de sous espèce de cet animal
-Vincent
+Sous espèces
+L'Ornythorinque est la création parfaite de son Papa et de sa Maman, et n'est donc pas un sous-être.
